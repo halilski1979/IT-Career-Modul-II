@@ -10,6 +10,7 @@ namespace _01_HelloWorld
             Console.WriteLine("Hello World!");
             List<int> nums = new List<int>() { 1, 2, 3 };
             nums.Add(1);
+            nums.Add(12);
         }
     }
 }
